@@ -13,6 +13,7 @@ brew install ffmpeg
 Now clone the repo:
 
 What the script does:
+
 /////////////////////////////////////////////////////////////
 
 It Allows you to do any of these options
@@ -26,7 +27,8 @@ It Allows you to do any of these options
   (g) Get audio (output will be a .aac file)                                                                                     
   (h) Get info on video or audio file                                                                                            
   (i) Play video or audio                                                                                                        
-==================================="
+===================================
+
 /////////////////////////////////////////////////////////////
 
 Please let me know if you liked it or there are flaws.
