@@ -13,7 +13,7 @@ brew install ffmpeg
 Now clone the repo:
 
 What the script does:
-///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
 It Allows you to do any of these options
 ===================================                                                                                                                                                                                     
   (a) Convert video to different format (.mp4, .avi, .mov...)                                                                    
@@ -26,7 +26,7 @@ It Allows you to do any of these options
   (h) Get info on video or audio file                                                                                            
   (i) Play video or audio                                                                                                        
 ==================================="
-///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
 
 Please let me know if you liked it or there are flaws.
 also "o" is a sticky key for me so any mispellings involving the letter o 
