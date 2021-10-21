@@ -8,7 +8,7 @@ I did this on my mac
 
 These are the steps to download hmebrew and ffmpeg
 download homebrew first by entering this in the terminal:
-/usr/bin/ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Once installed enter this in the terminal to install ffmpeg:
 brew install ffmpeg
